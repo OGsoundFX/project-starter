@@ -4,3 +4,7 @@ html, body {
   font-family: 'Chivo', sans-serif;
   color: #585858;
 }
+
+.text {
+  color: green;
+}
